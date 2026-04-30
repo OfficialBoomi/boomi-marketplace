@@ -8,7 +8,7 @@ This project is licensed under the [BSD-2-Clause License](LICENSE). If you fork 
 
 ## Feedback & Issues
 
-Found a bug or have a feature idea? Email solutions@boomi.com with a clear description, steps to reproduce, and any relevant error messages.
+Found a bug or have a feature idea? Email developer-offerings@boomi.com with a clear description, steps to reproduce, and any relevant error messages.
 
 ## What is this?
 
@@ -98,5 +98,5 @@ and here: https://platform.claude.com/docs/en/agents-and-tools/agent-skills/over
 If you encounter issues:
 
 1. This course provides an excellent intro to Claude Code: https://anthropic.skilljar.com/claude-code-in-action
-2. We would love your feedback and input via solutions@boomi.com
+2. We would love your feedback and input via developer-offerings@boomi.com
 3. Your AI agent can often help troubleshoot and explain issues
